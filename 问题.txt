@@ -1,0 +1,3 @@
+用navicat远程连接moriadb  
+账号密码 是 root  root
+可以登录 但是本地登录不了
